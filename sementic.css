@@ -1,0 +1,200 @@
+select {
+    border-radius: 2px;
+    box: sizing 30px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+select:hover{
+    background-color:palegreen;
+}
+
+input[type="text"] {
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+nav div {
+    color: black;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+div {
+    background-color: black;
+}
+
+h {
+    margin: 15px;
+
+}
+
+
+aside {
+    padding: 10px;
+}
+
+h2 {
+    margin-left: 200px;
+
+}
+
+aside {
+    margin-top: -660px;
+}
+
+ul {
+    margin-left: 155px;
+
+}
+
+li {
+    margin: 20px;
+    
+}
+
+.buttons {
+    background-color: darkolivegreen;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 30px;
+    width: 80px;
+    color: white;
+}
+.buttons:hover{
+    background-color:rgb(97, 220, 97);
+    cursor: pointer;
+}
+h{
+  font-weight:bolder;
+}
+.Login{
+    margin-left: 1200px;
+    margin-top: 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    width: 70px;
+    height: 40px;
+    font-weight: bolder;
+}
+.Login:hover{
+    background-color: cadetblue;
+}
+.but{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+.but:hover{
+    background-color:darkgreen;
+}
+.bu{
+    width: 75px;
+    height: 30px;
+    cursor: pointer;
+}
+.bu:hover{
+    background-color:darkgreen;
+}
+.b{
+    width: 125px;
+    height: 30px;
+    cursor: pointer;
+}
+.b:hover{
+    background-color:darkgreen;
+}
+.butt{
+    width: 105px;
+    height: 30px;
+    cursor: pointer;
+}
+.butt:hover{
+    background-color:darkgreen;
+}
+.butto{
+    width: 65px;
+    height: 30px;
+    cursor: pointer;
+}
+.butto:hover{
+    background-color:darkgreen;
+}
+.buton{
+    width: 65px;
+    height: 30px;
+    cursor: pointer;
+}
+.buton:hover{
+    background-color:darkgreen;
+}
+.bt{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}.bt:hover{
+    background-color:darkgreen;
+}
+.btt{
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+}.btt:hover{
+    background-color:darkgreen;
+}
+.om{
+    width: 60px;
+    height: 30px;
+    cursor: pointer;
+}.om:hover{
+    background-color:darkgreen;
+}
+.ar{
+    width: 130px;
+    height: 30px;
+    cursor: pointer;
+}.ar:hover{
+    background-color:darkgreen;
+}
+.us{
+
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+}.us:hover{
+    background-color:darkgreen;
+}
+.man{
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+}.man:hover{
+    background-color:darkgreen;
+}
+.per{
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}.per:hover{
+    background-color:darkgreen;
+}
+.veen{
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}.veen:hover{
+    background-color:darkgreen;
+}
+.mam{
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}.mam:hover{
+    background-color:rgb(16, 97, 16);
+}
+
